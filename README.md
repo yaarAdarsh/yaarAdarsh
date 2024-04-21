@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/easyadarsh93" target="blank"><img src="https://img.shields.io/twitter/follow/easyadarsh93?logo=twitter&style=for-the-badge" alt="easyadarsh93" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack web development, DSA**
+- 🌱 I’m currently learning **Full Stack web development, DSA & Machine learning**
 
 - 📫 How to reach me **addudx@gmail.com**
 
