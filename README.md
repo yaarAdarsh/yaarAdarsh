@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **addudx@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1J1ZdXG5092znYGIYTYYS5c4X9eBt0iAN/view?usp=sharing](https://drive.google.com/file/d/1J1ZdXG5092znYGIYTYYS5c4X9eBt0iAN/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wI_SJGCMK_wRsv-YUn3PCRbyu-ePLBBR/view)
 
 - ⚡ Fun fact **People call me "yaarAdarsh"**
 
