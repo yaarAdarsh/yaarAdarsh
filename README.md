@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack web development, DSA & Machine learning**
 
-- 📫 How to reach me **addudx@gmail.com**
+- 📫 How to reach me **adarshsahu1310@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1roQiOwluS6Ta-7t4KnPb8XJF-FR8pbRA/view?usp=drive_link)
 
