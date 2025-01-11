@@ -2,10 +2,7 @@
 <h3 align="center">A passionate Web developer & Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaaradarsh&label=Profile%20views&color=0e75b6&style=plastic" alt="yaaradarsh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaaradarsh" alt="yaaradarsh" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/easyadarsh93" target="blank"><img src="https://img.shields.io/twitter/follow/easyadarsh93?logo=twitter&style=for-the-badge" alt="easyadarsh93" /></a> </p>
+<p align="left"> <a href="https://x.com/yaar_Adarshh" target="blank"><img src="https://img.shields.io/twitter/follow/yaar_Adarshh?logo=twitter&style=for-the-badge" alt="yaar_Adarshh" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack web development, DSA & Machine learning**
 
