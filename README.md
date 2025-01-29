@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **adarshsahu1310@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jz9f47PrUfhUex4TPx5_pMjavNjIxs8n/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ws9K9vtHS-Rxo8xXRJUmIvY1xQWgaX32/view)
 
 - ⚡ Fun fact **People call me "yaarAdarsh"**
 
