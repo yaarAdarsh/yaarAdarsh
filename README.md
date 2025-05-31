@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh</h1>
-<h3 align="center">A passionate Web developer & Software Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer & Full Stack Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaaradarsh&label=Profile%20views&color=0e75b6&style=plastic" alt="yaaradarsh" /> </p>
 <p align="left"> <a href="https://x.com/yaar_Adarshh" target="blank"><img src="https://img.shields.io/twitter/follow/yaar_Adarshh?logo=twitter&style=for-the-badge" alt="yaar_Adarshh" /></a> </p>
